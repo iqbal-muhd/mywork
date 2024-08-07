@@ -1,0 +1,35 @@
+*{
+    background-color: black;
+}
+
+h1{
+    color: #239dbc;
+}
+p{
+    background-color: rgb(67, 49, 26);
+    text-align: justify;
+}
+button{
+    width: 150px;
+    height: 80px;
+    background-color: #0a1113;
+    color: white;
+    font-size: 20px;
+}
+#heading{
+    color: blue;
+}
+#para2{
+    color: red;
+    background-color:black ;
+}
+.group{
+    color: blanchedalmond;
+    font-size: 30px;
+}
+h4,h5{
+    color: blue;
+}
+#btn{
+    background-color: yellow;
+}
